@@ -1,0 +1,25 @@
+{
+  "name": "Europe at War",
+  "short_name": "Europe at War",
+  "description": "Europe at War \u2014 strategic sandbox prototype",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#0d151c",
+  "theme_color": "#111820",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
